@@ -1,0 +1,53 @@
+.carousel-item {
+    height: 50vh;
+}
+
+.small {
+    width: 80%;
+    margin-left: 165px;
+    margin-top: 10px;
+}
+
+.small-1 {
+    margin-left: 350px;
+    padding: 50px;
+    width: 30%;
+}
+
+.form{
+    padding: 40px;
+}
+
+.text {
+    text-decoration: none;
+}
+
+.text-1 {
+    color: white;
+}
+
+.card-1 {
+    display: grid;
+    grid-template-columns: 250px 250px 250px 250px 250px 250px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 0px;
+}
+
+.pro-1 {
+    height: 30px;
+    margin-bottom: 20px;
+}
+.login{ 
+    margin-right: 15px;
+}
+.search{
+    background-color: #151617;
+    color: white;
+}
+.form-control{
+    background-color: rgb(250, 249, 249);
+}
+#form-1{
+    width: 800px;
+}
